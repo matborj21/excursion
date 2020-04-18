@@ -35,3 +35,12 @@ footer {
     text-align: right;
     color: gray;
 }
+
+img {
+    margin: 15px auto;
+}
+
+/* video{
+    height: 70vh;
+    width: 300px;
+} */
